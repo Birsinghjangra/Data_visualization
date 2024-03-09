@@ -1,0 +1,17 @@
+
+::ng-deep.legend-group {
+    font-family: Arial, sans-serif;
+    font-size: 12px;
+    fill: black;
+  }
+  
+  ::ng-deep .legend rect {
+    width: 10px;
+    height: 10px;
+    fill: #ccc; /* You can adjust the color as needed */
+  }
+  
+  ::ng-deep .legend text {
+    font-size: 14px;
+    fill: black;
+  }
